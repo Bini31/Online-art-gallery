@@ -1,0 +1,89 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px 0px;
+  }
+  .row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+  }
+.jumbotron {
+    margin: 0px auto;
+    padding: 20px 5px;
+    background: #252C54;
+    color: #AB773D;
+  }
+  body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+   
+  }
+ 
+  .navbar{
+ 
+    padding:0;
+  
+  }
+  
+
+.nav-tabs .nav-item .nav-link{
+ background-color: #DEAC7B;
+
+    color: #252C54;
+    font-size: 15px;
+    font-weight: bold;
+ padding: 5px 25px;
+ 
+}
+.Buyer{
+  background-color: #DEAC7B;
+  
+}
+.btn{
+  border-style: none;
+
+}
+.btn:hover{
+  background-color: #EDCFC5;
+}
+.carousel {
+  background: #512DA8;
+}
+.carousel .carousel-item {
+  height: 300px;
+}
+.carousel .carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
+}
+.fa-linkedin{
+color: #AB773D;
+}
+.fa-facebook{
+  color: #AB773D;
+}
+.fa-twitter{
+  
+}
+.fa-google-plus{
+  color: #AB773D;
+}
+.fa-youtube{
+  color: #AB773D;
+}
+.fa-envelope-o
+{
+  color: #AB773D;
+}
+.fa-twitter{
+  color: #AB773D;
+}
